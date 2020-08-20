@@ -1,0 +1,5 @@
+Insertion, deletion, searching of an element is faster in BINARY SEARCH TREE than BINARY TREE due to the ordered characteristics
+Whereas BINARY TREE is unordered hence slower in process of insertion, deletion and searching.IN BINARY TREE there is no ordering in terms of how the nodes are arranged.
+In BINARY SEARCH TREE the left subtree has elements less than the nodes element and the right subtree has elements greater than the nodes element.
+
+Hence, the complexity of searching an element in a node is faster in Binary Search Tree than that of Binary Tree. Hence, it is more efficient.

@@ -1,0 +1,2 @@
+Two queues are needed to implement priority queue. 
+One queue is used for actual storing of data and another for storing priorities.

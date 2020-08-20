@@ -1,0 +1,28 @@
+A data structure is a particular way of organizing data in a computer so that it can be used effectively.
+
+Application of Arrays:
+Arrays are the simplest data structures that stores items of the same data type. A basic application of Arrays can be storing data in tabular format. For example, if we wish to store the contacts on our phone, then the software will simply place all our contacts in an array.
+
+Some other applications of the arrays are:
+1.Arrangement of leader-board of a game can be done simply through arrays to store the score and arrange them in descending order to clearly make out the rank of each player in the game.
+2.A simple question Paper is an array of numbered questions with each of them assigned to some marks.
+3.2D arrays, commonly known as, matrix, are used in image processing.
+4.It is also used in speech processing, in which each speech signal is an array.
+
+Application of Linked Lists:
+A linked list is a sequence data structure, which connects elements, called nodes, through links.
+
+Some other applications of the linked list are:
+1.Images are linked with each other. So, an image viewer software uses a linked list to view the previous and the next images using the previous and next buttons.
+2.Web pages can be accessed using the previous and the next URL links which are linked using linked list.
+3.The music players also use the same technique to switch between music.
+4.To keep the track of turns in a multi player game, a circular linked list is used.
+
+Application of Stack:
+A stack is a data structure which uses LIFO order.
+
+Some Applications of a stack are:
+1.Converting infix to postfix expressions.
+2.Undo operation is also carried out through stacks.
+3.Syntaxes in languages are parsed using stacks.
+4.It is used in many virtual machines like JVM.

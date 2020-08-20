@@ -1,0 +1,3 @@
+Whenever a programmer allocates some memory dynamically ,let's call it memory X (using malloc, calloc in c/c++, new in c++),the memory is allocated in heap, and as such the memory gets "reserved" for the program(/programmer). And now after it's use if the programmer does not release this "reserved" memory, then this reserved memory creates "memory leak", which cannot be re-allocated for any other program,despite this memory X is not required for the reserving program.
+
+Memory leaks are a common error in programming, especially when using languages that have no built in automatic garbage collection, such as C and C++.
